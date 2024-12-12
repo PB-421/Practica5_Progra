@@ -6,7 +6,7 @@ type Argsstudinates = {
     id:string|null,
     name: string|null,
     email: string|null,
-    enrolledCourses: string[]|null //de courses
+    enrolledCourses: string[]|null 
 } 
 type Argsteachers={
     id:string|null
